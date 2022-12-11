@@ -1,7 +1,7 @@
 /* create a functions for lowercase,
  * uppercase,numbers,symbol
  *
- * in lowercase function create an arrray
+ * in lowercase function create an arrray 
  * which stores all the letters from a - z
  * and using rand get random letters from
  * them
@@ -31,7 +31,7 @@ class Password
 void lowercase()
 {
   char lower[] = {'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'};
-
+  
 
    a = lower[randoma];
    b = lower[randomb];
@@ -41,7 +41,7 @@ void lowercase()
 
 void uppercase()
 {
-
+  
   char upper[] = {'A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z'};
 
    d = upper[randomd];
@@ -105,3 +105,13 @@ cout<<"\nThe generated password is : "<<a<<b<<c<<d<<e<<f<<g<<h<<i<<j<<k<<l;
 
 
 }
+
+
+
+
+
+
+
+
+
+
