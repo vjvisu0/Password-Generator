@@ -1,5 +1,4 @@
-# password_generator
-It generates password with perfect length and symbols
+# Password Generator
 
 It creates a password of length 12.
 
